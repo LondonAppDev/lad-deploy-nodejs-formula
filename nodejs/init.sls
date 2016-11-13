@@ -1,3 +1,6 @@
+curl:
+    pkg.installed: []
+
 node_install_latest_nodejs:
     cmd.run:
         - name: |
